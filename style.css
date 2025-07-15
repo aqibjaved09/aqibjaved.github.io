@@ -354,7 +354,7 @@ section {
     border: 1px solid var(--border-color);
 }
 
-.timeline-content h4 {
+.timeline-content h5 {
     margin-top: 0;
     color: var(--primary-color);
 }
@@ -606,3 +606,4 @@ section {
         margin-top: 30px;
     }
 }
+
